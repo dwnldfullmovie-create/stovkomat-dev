@@ -1,0 +1,11 @@
+# Stovkomat dev
+> Moderní grilovací průvodce se sídlem v městě Ostrava, Moravskoslezský.
+
+## Obsah webu
+- [Hlavní stránka](/index.html): Přehled publikací.
+- [O nás](/about.html): Kdo jsme a co děláme.
+- [Kontakt](/contact.html): Formulář a adresa.
+## Publikace
+- [Enterprise Static Site Architecture and Obfuscation Guide](/enterprise-static-site-architecture-and-obfuscation-guide.html)
+- [Optimizing Operations for Digital Service Teams](/optimizing-operations-for-digital-service-teams.html)
+- [Geotargeting Strategies for Distributed Networks](/geotargeting-strategies-for-distributed-networks.html)
